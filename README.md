@@ -8,3 +8,5 @@ There are a few instructions for use:
 4) But before that you need to install the dependencies with => "npm i express qrcode"
 
 I couldn't upload all the dependencies so the terminal command is in step 4 to install them.
+
+YOU HAVE TO CHANGE THE IP ADDRESS OF THE SERVER TO USE IT WITH DIFFERENT DEVICES as it is currently set to localhost.
